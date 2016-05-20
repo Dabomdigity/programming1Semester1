@@ -1,3 +1,2 @@
-# programming1Semester1
-Isn't it obvious?
-lel
+# Semester 1
+Mainly contains learning-experience and somewhat functional Processing 3 Applications.
